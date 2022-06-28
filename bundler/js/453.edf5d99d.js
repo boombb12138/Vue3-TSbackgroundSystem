@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkbackground_management_system"]=self["webpackChunkbackground_management_system"]||[]).push([[453],{6453:function(n,e,r){r.r(e),r.d(e,{default:function(){return d}});var t=r(6252);function u(n,e,r,u,a,s){return(0,t.wg)(),(0,t.iD)("div",null,"登录")}var a=(0,t.aZ)({setup(){return{}}}),s=r(3744);const c=(0,s.Z)(a,[["render",u]]);var d=c}}]);
+//# sourceMappingURL=453.edf5d99d.js.map

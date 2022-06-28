@@ -1,0 +1,19 @@
+{
+  "department": [
+    {
+      "name": "人事部",
+      "parentId": 1,
+      "leader": "coderwhy"
+    },
+    {
+      "name": "事业部",
+      "parentId": 2,
+      "leader": "james"
+    },
+    {
+      "name": "总裁办",
+      "parentId": 3,
+      "leader": "kobe"
+    }
+  ]
+}

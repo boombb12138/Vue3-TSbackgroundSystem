@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "name": "coderwhy",
+      "realname": "why",
+      "password": "123456",
+      "cellphone": 13322223338,
+      "departmentId": 1,
+      "roleId": 1
+    },
+    {
+      "name": "james",
+      "realname": "詹姆斯",
+      "password": "123456",
+      "cellphone": 13322223338,
+      "departmentId": 1,
+      "roleId": 1
+    },
+    {
+      "name": "kobe",
+      "realname": "科比",
+      "password": "123456",
+      "cellphone": 13322223338,
+      "departmentId": 1,
+      "roleId": 1
+    }
+  ]
+}

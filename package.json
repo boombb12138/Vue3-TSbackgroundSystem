@@ -7,13 +7,23 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "prettier": "prettier --write .",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "commit": "cz"
   },
   "dependencies": {
+    "@element-plus/icons-vue": "^1.1.4",
+    "axios": "^0.27.2",
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "dayjs": "^1.11.2",
+    "element-plus": "^2.2.2",
+    "normalize.css": "^8.0.1",
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.13",
+    "vuex": "^4.0.2"
   },
   "devDependencies": {
+    "@commitlint/cli": "^17.0.0",
+    "@commitlint/config-conventional": "^17.0.0",
     "@typescript-eslint/eslint-plugin": "^5.4.0",
     "@typescript-eslint/parser": "^5.4.0",
     "@vue/cli-plugin-babel": "~5.0.0",
